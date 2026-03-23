@@ -11,3 +11,9 @@ Compressor Head is a 6 episode video series explaining the theory and practice o
 [How JPEG works](https://cgjennings.ca/articles/jpeg-compression/)
 
 Interactively explore JPEG’s lossy compression methods
+
+
+[Compression Algorithms: Hu↵man
+and Lempel-Ziv-Welch (LZW)](https://ocw.mit.edu/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/95605227801c1ef2e1b6ddfd8da7a8a2_MIT6_02F12_chap03.pdf)
+
+[Introduction to EECS II: Digital Communication Systems](https://ocw.mit.edu/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/pages/readings/)
