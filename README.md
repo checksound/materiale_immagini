@@ -17,3 +17,7 @@ Interactively explore JPEG’s lossy compression methods
 and Lempel-Ziv-Welch (LZW)](https://ocw.mit.edu/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/95605227801c1ef2e1b6ddfd8da7a8a2_MIT6_02F12_chap03.pdf)
 
 [Introduction to EECS II: Digital Communication Systems](https://ocw.mit.edu/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/pages/readings/)
+
+[Lempel-Ziv-Welch Compression Algorithm - Tutorial](https://youtu.be/j2HSd3HCpDs?si=LaOCz-gYKPmV8tmr)
+
+[Lossless Compression: Lempel-Ziv](https://youtu.be/RV5aUr8sZD0?si=siJ-Qpe5DesJdyMI)
